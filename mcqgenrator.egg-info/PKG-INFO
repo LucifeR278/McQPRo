@@ -3,3 +3,8 @@ Name: mcqgenrator
 Version: 0.0.1
 Author: Ashish Kumar
 Author-email: ashishchamp323@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
