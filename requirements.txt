@@ -3,3 +3,6 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
+
+
+-e . #use to install local packages into virtual envoirnment
